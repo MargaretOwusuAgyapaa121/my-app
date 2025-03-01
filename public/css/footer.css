@@ -1,0 +1,34 @@
+/* General Footer Styling */
+.footer {
+    background-color: #343a40; /* Dark background for a classic look */
+    color: #f8f9fa; /* Light text color for contrast */
+    font-family: 'Georgia', serif; /* Classic serif font for a traditional feel */
+    padding: 20px 0; /* Vertical padding for space */
+    text-align: center;
+  }
+  
+  /* Container Styling for Inner Content */
+  .footer .container {
+    max-width: 1200px; /* Limit width for a more structured layout */
+    margin: 0 auto; /* Center the content */
+  }
+  
+  /* Text Styling */
+  .footer p {
+    font-size: 16px; /* Medium text size for readability */
+    font-weight: 300; /* Lighter font weight for elegance */
+    letter-spacing: 0.5px; /* Slight letter-spacing for a classic touch */
+    margin-bottom: 0; /* Remove extra space below the text */
+  }
+  
+  /* Hover Effects for Links (if any) */
+  .footer a {
+    color: #f8f9fa;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer a:hover {
+    color: #ffd700; /* Classic gold hover color */
+  }
+  
