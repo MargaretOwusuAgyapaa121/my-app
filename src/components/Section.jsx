@@ -14,7 +14,7 @@ export default function About(){
                         <p className="text-white-50">
                       Blessing Gate Foundation is a charitable organization dedicated to providing food and support to orphans, widows, and people with disabilities. Our mission is to bring hope and relief to those in need by ensuring they have access to essential meals and care. Through kindness and generosity, 
                       we strive to make a positive impact in their lives and communities. 
-                            <Link to="https://startbootstrap.com/theme/grayscale/">the WhatsApp page.</Link>
+                            <Link to=" https://chat.whatsapp.com/LtRBTIt95JbDolAWIHrITo ">the WhatsApp page.</Link>
                         </p>
                     </div>
                 </div>
